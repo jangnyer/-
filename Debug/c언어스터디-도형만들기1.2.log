@@ -1,0 +1,7 @@
+﻿cl : 명령줄 warning D9025: '/analyze-'을(를) '/analyze:stacksize32768'(으)로 재정의합니다.
+  여러가지-6 오목-1733.cpp
+C:\Users\jangn\source\repos\c언어스터디-도형만들기1.2\c언어스터디-도형만들기1.2\여러가지-6 오목-1733.cpp(33,8): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('int' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+C:\Users\jangn\source\repos\c언어스터디-도형만들기1.2\c언어스터디-도형만들기1.2\여러가지-6 오목-1733.cpp(36,13): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('int' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+C:\Users\jangn\source\repos\c언어스터디-도형만들기1.2\c언어스터디-도형만들기1.2\여러가지-6 오목-1733.cpp(39,13): warning C4806: '==': 안전하지 않은 연산입니다. 'bool' 형식의 값('int' 형식으로 확장)이 주어진 상수와 같을 수 없습니다.
+C:\Users\jangn\source\repos\c언어스터디-도형만들기1.2\c언어스터디-도형만들기1.2\여러가지-6 오목-1733.cpp(11): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+  c언어스터디-도형만들기1.2.vcxproj -> C:\Users\jangn\source\repos\c언어스터디-도형만들기1.2\Debug\c언어스터디-도형만들기1.2.exe
